@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="memoryLeak:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/memoryLeak_jar</output-path>
+    <root id="archive" name="memoryLeak.jar">
+      <element id="module-output" name="memoryLeak" />
+    </root>
+  </artifact>
+</component>
